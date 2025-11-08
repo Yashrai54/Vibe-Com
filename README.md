@@ -72,3 +72,6 @@ PORT=5000
 - Click Proceed to Checkout to place an order.
 - Use the Continue Shopping button to return to the products page.
 
+## Screenshots
+![Home Page](./frontend/src/assets/Home.png)
+![Cart Page](./frontend/src/assets/Cart.png)
